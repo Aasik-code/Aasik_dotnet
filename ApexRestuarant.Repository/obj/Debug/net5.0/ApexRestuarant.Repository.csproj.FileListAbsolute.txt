@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\bin\Debug\net5.0\ApexRestuarant.Repository.deps.json
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\bin\Debug\net5.0\ApexRestuarant.Repository.dll
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\bin\Debug\net5.0\ref\ApexRestuarant.Repository.dll
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\bin\Debug\net5.0\ApexRestuarant.Repository.pdb
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\obj\Debug\net5.0\ApexRestuarant.Repository.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\obj\Debug\net5.0\ApexRestuarant.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\obj\Debug\net5.0\ApexRestuarant.Repository.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\obj\Debug\net5.0\ApexRestuarant.Repository.AssemblyInfo.cs
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\obj\Debug\net5.0\ApexRestuarant.Repository.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\obj\Debug\net5.0\ApexRestuarant.Repository.dll
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\obj\Debug\net5.0\ref\ApexRestuarant.Repository.dll
+C:\Users\HP\Documents\ApexRestuarant\ApexRestuarant.Repository\obj\Debug\net5.0\ApexRestuarant.Repository.pdb

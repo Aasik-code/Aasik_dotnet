@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ApexRestuarant.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ApexRestuarant.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApexRestuarant.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApexRestuarant.Repository/1.0.0": {
+      "type": "project",
+      "path": "../ApexRestuarant.Repository/ApexRestuarant.Repository.csproj",
+      "msbuildProject": "../ApexRestuarant.Repository/ApexRestuarant.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ApexRestuarant.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Services\\ApexRestuarant.Services.csproj",
+      "projectName": "ApexRestuarant.Services",
+      "projectPath": "C:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Services\\ApexRestuarant.Services.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Repository\\ApexRestuarant.Repository.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Repository\\ApexRestuarant.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

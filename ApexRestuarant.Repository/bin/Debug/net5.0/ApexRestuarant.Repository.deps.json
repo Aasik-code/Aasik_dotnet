@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ApexRestuarant.Repository/1.0.0": {
+        "runtime": {
+          "ApexRestuarant.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApexRestuarant.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
