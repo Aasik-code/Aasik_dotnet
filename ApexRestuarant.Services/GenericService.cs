@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
-using ApexRestaurant.Repository;
+using ApexRestuarant.Repository;
 
 namespace ApexRestaurant.Services
 {
