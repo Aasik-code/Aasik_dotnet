@@ -1,9 +1,10 @@
 using System.Linq;
 
-namespace ApexRestaurant.Repository
+namespace ApexRestuarant.Repository
 {
     public interface IGenericRepository<T>
     {
+        RestuarantContext DbContext { get; set; }
 
         T Get(int id);
 

@@ -4,10 +4,10 @@ using Microsoft.EntityFrameworkCore;
 namespace ApexRestuarant.Repository
 {
     public abstract class GenericRepository<T> : IGenericRepository<T>
-    where T : class, new()
+        where T : class, new()
     {
-        protected RestuarantContext DbContext { get; set; }
-
+        public RestuarantContext DbContext { get; set; }
+        
         public T Get(int id)
         {
             return DbContext.Find<T>(id);
