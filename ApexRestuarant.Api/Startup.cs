@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ApexRestaurant.Services;
+using ApexRestuarant.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,6 +29,10 @@ namespace ApexRestuarant.Api
         public void ConfigureServices(IServiceCollection services)
         {
 
+            RepositoryModule.Register(services, Configuration.GetConnectionString("DefaultConnection"), GetType().Assembly.FullName);
+            ServicesModule.Register(services);
+
+            services.AddHttpClient();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

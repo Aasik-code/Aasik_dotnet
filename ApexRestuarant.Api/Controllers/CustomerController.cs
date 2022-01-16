@@ -1,5 +1,5 @@
 using ApexRestuarant.Repository.Domain;
-using ApexRestuarant.Services.SCustomer;
+using ApexRestaurant.Services.SCustomer;
 using Microsoft.AspNetCore.Mvc;
 namespace ApexRestuarant.Api.Controller
 {
