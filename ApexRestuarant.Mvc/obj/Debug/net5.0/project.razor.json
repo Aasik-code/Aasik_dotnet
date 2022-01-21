@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\ApexRestuarant.Mvc.csproj",
+  "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\ApexRestuarant.Mvc.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,68 +15619,68 @@
   "RootNamespace": "ApexRestuarant.Mvc",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Customer\\Index.cshtml",
-      "TargetPath": "Views\\Customer\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Customer\\Delete.cshtml",
-      "TargetPath": "Views\\Customer\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Customer\\Put.cshtml",
-      "TargetPath": "Views\\Customer\\Put.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HP\\Documents\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Customer\\Create.cshtml",
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Customer\\Delete.cshtml",
+      "TargetPath": "Views\\Customer\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Customer\\Index.cshtml",
+      "TargetPath": "Views\\Customer\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Customer\\Put.cshtml",
+      "TargetPath": "Views\\Customer\\Put.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Customer\\Create.cshtml",
       "TargetPath": "Views\\Customer\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Pictures\\ApexRestuarant\\ApexRestuarant.Mvc\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
